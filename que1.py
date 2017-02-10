@@ -1,0 +1,6 @@
+bredth=input("enter bredth")
+length=input("enter length")
+area=int(bredth)*int(length)
+print("area is %s"%(area))
+perimeter=2*(int(bredth)+int(length))
+print("perimeter is %s"%(perimeter))
